@@ -2,9 +2,15 @@ import styled from "styled-components";
 
 export const HeroContainer = styled.div``;
 
-export const Header = styled.div`
+export const Wrapper = styled.div`
   display: flex;
-  justify-content: space-between;
+`;
+
+export const Header = styled.div`
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
   align-items: center;
   padding: 2rem 6rem;
 

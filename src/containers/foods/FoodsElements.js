@@ -37,6 +37,7 @@ export const FoodsText = styled.p`
 export const FoodsList = styled.div`
   display: grid;
   column-gap: 20px;
+
   row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 `;

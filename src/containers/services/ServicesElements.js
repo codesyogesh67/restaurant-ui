@@ -48,6 +48,7 @@ export const ServicesText = styled.p`
 
 export const ServicesBody = styled.div`
   padding-top: 1.5rem;
+
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(295px, 1fr));
   row-gap: 10px;
@@ -67,7 +68,7 @@ export const ServicesSection = styled.div`
 `;
 
 export const ServicesImageContainer = styled.div`
-  height: 20vh;
+  height: 15vh;
   img {
     width: 100%;
     height: 100%;

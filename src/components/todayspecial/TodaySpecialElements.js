@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const TodaySpecialHeader = styled.div`
   display: flex;
   align-items: center;
+  justify-content: space-between;
   flex-direction: row;
   margin: 1rem;
 
@@ -12,7 +13,6 @@ export const TodaySpecialHeader = styled.div`
   }
 `;
 export const TodaySpecialTitle = styled.div`
-  flex: 1;
   margin-right: 2rem;
 `;
 
@@ -36,6 +36,8 @@ export const TodaySpecialText = styled.p`
 `;
 
 export const TodaySpecialContainer = styled.div`
+  padding: 3rem 1rem;
+  padding-bottom: 0rem;
   display: grid;
   column-gap: 20px;
   justify-items: center;
@@ -44,7 +46,7 @@ export const TodaySpecialContainer = styled.div`
 `;
 
 export const TodaySpecialBoxContainer = styled.div`
-  max-width: 500px;
+  max-width: 400px;
   position: relative;
 `;
 
