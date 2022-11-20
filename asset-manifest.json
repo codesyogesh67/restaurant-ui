@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bdee884.chunk.css",
+    "main.js": "/static/js/main.57ab7c55.chunk.js",
+    "main.js.map": "/static/js/main.57ab7c55.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79cdf866.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79cdf866.js.map",
+    "static/js/2.3358ee42.chunk.js": "/static/js/2.3358ee42.chunk.js",
+    "static/js/2.3358ee42.chunk.js.map": "/static/js/2.3358ee42.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7bdee884.chunk.css.map": "/static/css/main.7bdee884.chunk.css.map",
+    "static/js/2.3358ee42.chunk.js.LICENSE.txt": "/static/js/2.3358ee42.chunk.js.LICENSE.txt",
+    "static/media/Burger.76877146.png": "/static/media/Burger.76877146.png",
+    "static/media/Burger2.ab745ffd.png": "/static/media/Burger2.ab745ffd.png",
+    "static/media/Sandwich.d2bfe345.png": "/static/media/Sandwich.d2bfe345.png",
+    "static/media/Scooter.3cbf769b.png": "/static/media/Scooter.3cbf769b.png",
+    "static/media/Utensils.b9275bbb.png": "/static/media/Utensils.b9275bbb.png",
+    "static/media/bannerImage.b396087f.png": "/static/media/bannerImage.b396087f.png",
+    "static/media/breakfast.6b6a5704.png": "/static/media/breakfast.6b6a5704.png",
+    "static/media/cookies.0aae8c0d.png": "/static/media/cookies.0aae8c0d.png",
+    "static/media/fries.6955ee53.png": "/static/media/fries.6955ee53.png",
+    "static/media/lettuce2.215c846a.png": "/static/media/lettuce2.215c846a.png",
+    "static/media/lunch.c471e59e.png": "/static/media/lunch.c471e59e.png",
+    "static/media/mobile.1d34f4b2.png": "/static/media/mobile.1d34f4b2.png",
+    "static/media/pizza.b05a8b93.png": "/static/media/pizza.b05a8b93.png",
+    "static/media/plant.ccadaef5.png": "/static/media/plant.ccadaef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79cdf866.js",
+    "static/js/2.3358ee42.chunk.js",
+    "static/css/main.7bdee884.chunk.css",
+    "static/js/main.57ab7c55.chunk.js"
+  ]
+}
