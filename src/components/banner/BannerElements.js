@@ -24,7 +24,7 @@ export const BannerContent = styled.div`
 export const BannerTitle = styled.h1`
   font-family: var(--font-family);
   font-weight: 800;
-  font-size: 62px;
+  font-size: 50px;
   line-height: 75px;
   line-spacing: -0.04em;
 
