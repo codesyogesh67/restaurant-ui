@@ -75,6 +75,8 @@ export const BannerImage = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+background-color: var(--background-color);;
+
 
   img {
     width: 100%;
